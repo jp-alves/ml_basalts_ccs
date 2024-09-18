@@ -3,31 +3,43 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730803.svg)](https://doi.org/10.5281/zenodo.12730803)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-* [petrophysics_basalts](petrophysics_basalts): in this directory are the Jupyter notebooks and associated data of the paper:\
-Application of machine learning methods for petrophysical prediction in basalts of the Serra Geral Group: Implications for carbon storage\
-preprint:
+by
+João Paulo G. R. Alves, Claudio Riccomini
 
-Scripts and associated data of the paper:  
 
-Paper name
+## About
 
-Submitted for revision.  
-Preprint: https://arxiv.org/--- 
-Final paper: http://doi.org/---
+*This paper has been submitted for peer review for the journal *Computers & Geosciences*. This directory contains the Jupyter notebooks and associated data necessary to replicate the results.
 
-* [DensityModel](DensityModel) - contains the data and the Jupyter notebook for density model (python 3 kernel, dated 2024-07)
+**Title:** Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage
 
-* [PorosityModel](PorosityModel) - contains the data and the Jupyter notebook for porosity model (python 3 kernel, dated 2024-07)
+**Preprint:** https://arxiv.org/---
 
-* [PermeabilityModel](PermeabilityModel) - contains the data and the Jupyter notebook for permeability model (python 3 kernel, dated 2024-07)
+**Final paper:** http://doi.org/---
 
-* [WellLogs_Data](WellLogs_Data) - contains the data necessary to generate the interepolated maps and the Jupyter notebook to generate the section plot (python 3 kernel, dated 2024-07)
 
-* [Maps](Maps) - contains the data (.tif, .cpt, .gpkg) and the Jupyter notebook necessary to generate the loaction and interpolated maps (python 3 kernel, dated 2024-07)
+## Abstract
 
-* [TestData](TestData) - contains the test datasets to compare with empirical equations (dated 2024-07)
+This study applies machine learning techniques for forecasting petrophysical properties (density, porosity, and permeability) in the basalts of the Serra Geral Group, located in the Paraná Basin, Brazil. These properties are crucial for the successful implementation of carbon capture and storage (CCS), an important technology to combat climate change. Employing machine learning models—XGBoost, Gradient Boosting, and Random Forest—the research aims to overcome the limitations of traditional empirical methods that often fail to capture the complex variabilities in basalt formations. The models were applied to 28 wells within the study area. The interpolation of the well data indicated that the northern region of the Serra Geral Group in the State of Santa Catarina exhibits optimal conditions for geological storage. From 600 to 900 m, the basalts present suitable intervals ranging from 7 to 22 m thick, with density lows of almost 2.1 g/cm³, high peaks of 17.8% apparent porosity, and permeability of 55 $$\mu D$$. The results demonstrated significant improvements in accuracy of property predictions compared to empirical methods from the literature, highlighting the potential of machine learning to enhance the feasibility and reliability of CCS in basaltic formations. This study contributes to the ongoing efforts to optimize CCS technology by providing a more accurate geological assessment of suitable storage sites.
 
-Original references used to generate the datasets:
+
+## Content
+
+* [DensityModel](DensityModel) - Contains the data and the Jupyter notebook for density model (XGBoost) - (python 3 kernel, dated 2024-09)
+
+* [PorosityModel](PorosityModel) - Contains the data and the Jupyter notebook for porosity model (Gradient Boosting) - (python 3 kernel, dated 2024-09)
+
+* [PermeabilityModel](PermeabilityModel) - Contains the data and the Jupyter notebook for permeability model (Random Forest) - (python 3 kernel, dated 2024-09)
+
+* [WellLogs_Data](WellLogs_Data) - Contains the data necessary to generate the interepolated maps and the Jupyter notebook to generate the section plot - (python 3 kernel, dated 2024-09)
+
+* [Maps](Maps) - Contains the data (.tif, .cpt, .gpkg) and the Jupyter notebook necessary to generate the loaction and interpolated maps - python 3 kernel, dated 2024-09)
+
+* [TestData](TestData) - Contains the test datasets to compare with empirical equations (dated 2024-09)
+
+
+
+## Original references used to generate the datasets
 
 Famelli, N. (2020). Associação de litofácies, interação lava-sedimento e caracterização sísmica do magmatismo Serra Geral na região de Uberlândia e Araguari (MG) [Tese (Doutorado), Universidade Federal do Rio Grande do Sul]. http://hdl.handle.net/10183/223773
 
@@ -35,4 +47,26 @@ Goulart, D. (2019). Análise e correlação de propriedades físicas e mecânica
 
 Rossetti, L. M., Healy, D., Hole, M. J., Millett, J. M., de Lima, E. F., Jerram, D. A., & Rossetti, M. M. M. (2019). Evaluating petrophysical properties of volcano-sedimentary sequences: A case study in the Paraná-Etendeka Large Igneous Province. Marine and Petroleum Geology, 102, 638–656. https://doi.org/10.1016/j.marpetgeo.2019.01.028
 
-SGB-CPRM. (2023, October 22). Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres. https://reate.cprm.gov.br/anp/TERRESTRE.
+ANP-SGB. (2023, October 22). Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres. https://reate.cprm.gov.br/anp/TERRESTRE.
+
+
+
+## Getting the code
+
+You can download a copy of all the files in this repository by cloning the
+[git](https://git-scm.com/) repository:
+
+    git clone https://github.com/jp-alves/ml_basalts_ccs.git
+
+or [download a zip archive](https://github.com/jp-alves/ml_basalts_ccs/archive/master.zip).  
+
+
+## License
+
+All source code is made available under a MIT license. You can freely use 
+and modify the code, without warranty, so long as you provide attribution
+to the authors. See 'LICENSE.md' for the full license text.
+
+The manuscript text is open source. The authors reserve the rights to the 
+article content, which is currently submitted for publication in the
+*Computers & Geosciences*.
