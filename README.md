@@ -3,9 +3,12 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730803.svg)](https://doi.org/10.5281/zenodo.12730803)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-by
-João Paulo G. R. Alves, Claudio Riccomini
+**Authors:**
+<a href="https://orcid.org/0000-0002-1787-2206"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> João Paulo G. R. Alves <sup>a</sup>, <a href="https://orcid.org/0000-0002-7249-5706"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a> Claudio Riccomini <sup>a,b</sup>
 
+<sup>a</sup> *Institute of Energy and Environment, University of São Paulo (IEE-USP), São Paulo, 05508-010, Brazil*
+
+<sup>b</sup> *Institute of Geosciences, University of São Paulo (IGc-USP), São Paulo, 05508-080, Brazil*
 
 ## About
 
