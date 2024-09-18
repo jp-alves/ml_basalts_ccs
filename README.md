@@ -9,7 +9,7 @@ João Paulo G. R. Alves, Claudio Riccomini
 
 ## About
 
-*This paper has been submitted for peer review for the journal *Computers & Geosciences*. This directory contains the Jupyter notebooks and associated data necessary to replicate the results.
+*This paper has been submitted to the journal *Computers & Geosciences* for peer review. Included in this directory are the Jupyter notebooks and associated data required to replicate the results.
 
 **Title:** Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage
 
