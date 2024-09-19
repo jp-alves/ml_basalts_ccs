@@ -41,16 +41,24 @@ This study applies machine learning techniques for forecasting petrophysical pro
 * [TestData](TestData) - Contains the test datasets to compare with empirical equations (dated 2024-09)
 
 
+## Results
+The key outputs of running the notebooks include:
+
+- Interpolated maps identifying suitable regions for carbon storage in the State of Santa Catarina, Brazil.
+- Well log profiles from 600 to 900 m, highlighting suitable sections for use as reservoir and cap rock.
+- Prediction models for density, porosity, and permeability in basaltic rocks, including evaluation metrics such as RMSE, MAE, and R<sup>2</sup>.
+- A comparison of the performance of machine learning prediction models against traditional empirical equations.
+
 
 ## Original references used to generate the datasets
 
-Famelli, N. (2020). Associação de litofácies, interação lava-sedimento e caracterização sísmica do magmatismo Serra Geral na região de Uberlândia e Araguari (MG) [Tese (Doutorado), Universidade Federal do Rio Grande do Sul]. http://hdl.handle.net/10183/223773
+- Famelli, N. (2020). *Associação de litofácies, interação lava-sedimento e caracterização sísmica do magmatismo Serra Geral na região de Uberlândia e Araguari (MG)*. [Doctoral Thesis, Universidade Federal do Rio Grande do Sul]. Available at: http://hdl.handle.net/10183/223773
 
-Goulart, D. (2019). Análise e correlação de propriedades físicas e mecânicas de rochas da Formação Botucatu e Grupo Serra Geral [Trabalho de conclusão de curso (Graduação em Geologia), Universidade Federal de Santa Catarina]. https://repositorio.ufsc.br/handle/123456789/204071
+- Goulart, D. (2019). *Análise e correlação de propriedades físicas e mecânicas de rochas da Formação Botucatu e Grupo Serra Geral*. [Undergraduate Thesis, Universidade Federal de Santa Catarina]. Available at: https://repositorio.ufsc.br/handle/123456789/204071
 
-Rossetti, L. M., Healy, D., Hole, M. J., Millett, J. M., de Lima, E. F., Jerram, D. A., & Rossetti, M. M. M. (2019). Evaluating petrophysical properties of volcano-sedimentary sequences: A case study in the Paraná-Etendeka Large Igneous Province. Marine and Petroleum Geology, 102, 638–656. https://doi.org/10.1016/j.marpetgeo.2019.01.028
+- Rossetti, L. M., Healy, D., Hole, M. J., Millett, J. M., de Lima, E. F., Jerram, D. A., & Rossetti, M. M. M. (2019). *Evaluating petrophysical properties of volcano-sedimentary sequences: A case study in the Paraná-Etendeka Large Igneous Province*. Marine and Petroleum Geology, 102, 638–656. https://doi.org/10.1016/j.marpetgeo.2019.01.028
 
-ANP-SGB. (2023, October 22). Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres. https://reate.cprm.gov.br/anp/TERRESTRE.
+- ANP-SGB. (2023, October 22). *Programa de Revitalização da Atividade de Exploração e Produção de Petróleo e Gás Natural em Áreas Terrestres*. Available at: https://reate.cprm.gov.br/anp/TERRESTRE
 
 
 
@@ -73,3 +81,10 @@ to the authors. See 'LICENSE.md' for the full license text.
 The manuscript text is open source. The authors reserve the rights to the 
 article content, which is currently submitted for publication in the
 *Computers & Geosciences*.
+
+
+## Contact
+
+For any questions or inquiries, please contact:
+João Paulo G. R. Alves - [email](mailto:joao.guilherme.alves@usp.br)
+
