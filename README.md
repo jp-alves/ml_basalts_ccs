@@ -1,6 +1,6 @@
 # Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730803.svg)](https://doi.org/10.5281/zenodo.12730803)
+[![DOI](https://zenodo.org/badge/859444283.svg)](https://zenodo.org/doi/10.5281/zenodo.13821458)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Authors:**
