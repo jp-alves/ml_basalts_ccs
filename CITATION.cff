@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alves"
+  given-names: "João Paulo"
+  orcid: "https://orcid.org/0000-0002-1787-2206"
+- family-names: "Riccomini"
+  given-names: "Claudio"
+  orcid: "https://orcid.org/0000-0002-7249-5706"
+title: "Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage"
+version: 0.1.0
+doi: 10.5281/zenodo.13821458
+date-released: 2024-09-20
+url: "https://github.com/jp-alves/ml_basalts_ccs"
