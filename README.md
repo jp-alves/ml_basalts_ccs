@@ -78,7 +78,7 @@ All source code is made available under a MIT license. You can freely use
 and modify the code, without warranty, so long as you provide attribution
 to the authors. See 'LICENSE.md' for the full license text.
 
-The manuscript text is not open source. The authors reserve the rights to the 
+The manuscript is avaliable under CC-BY-4.0 license. The authors reserve the rights to the 
 article content, which is currently submitted to the journal *Computers & Geosciences* 
 for peer review.
 
