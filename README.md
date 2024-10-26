@@ -16,7 +16,7 @@
 
 **Title:** Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage
 
-**Preprint:** https://arxiv.org/---
+**Preprint:** https://doi.org/10.31223/X5ZM6K
 
 **Final paper:** http://doi.org/---
 
