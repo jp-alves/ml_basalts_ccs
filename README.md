@@ -69,7 +69,11 @@ You can download a copy of all the files in this repository by cloning the
 
     git clone https://github.com/jp-alves/ml_basalts_ccs.git
 
-or [download a zip archive](https://github.com/jp-alves/ml_basalts_ccs/archive/master.zip).  
+or [download a zip archive](https://github.com/jp-alves/ml_basalts_ccs/archive/master.zip).
+
+After downloading, you can install the required dependencies with:
+
+    pip install -r requirements.txt
 
 
 ## License
