@@ -12,7 +12,7 @@
 
 ## About
 
-*This paper has been submitted to the journal *Applied Computing and Geosciences* for peer review. Included in this directory are the Jupyter notebooks and associated data required to replicate the results.
+*This paper has been submitted for peer review. Included in this directory are the Jupyter notebooks and associated data required to replicate the results.
 
 **Title:** Application of machine learning methods to forecast petrophysical properties in basalts of the Serra Geral Group: Implications for carbon storage
 
