@@ -83,7 +83,7 @@ and modify the code, without warranty, so long as you provide attribution
 to the authors. See 'LICENSE.md' for the full license text.
 
 The manuscript is avaliable under CC-BY-4.0 license. The authors reserve the rights to the 
-article content, which is currently submitted to the journal *Applied Computing and Geosciences* 
+article content, which is currently submitted for peer review.
 for peer review.
 
 
